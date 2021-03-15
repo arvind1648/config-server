@@ -1,0 +1,5 @@
+my:
+   applicationName: "ConfigFileAtGitRepository"
+   appDescription: "The configuration file is present in Git repository and this file is read by Spring Boot Config server Application"
+  
+
